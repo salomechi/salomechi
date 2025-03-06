@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Salome Chitubila (MSc)
-- 👀 I’m interested in building different projects, learning and new sotware and programs and sharing with the world ...
-- 🌱 I’m currently learning about different deployment strategies ..
-- 💞️ I’m looking to collaborate on different projects...
-- 📫 How to reach me ( salomechitubila@gmail.com )...
+👋 Hi, I’m Salome Chitubila (MSc in Agricultural Economics)!
 
-<!---
-salomechi/salomechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 I’m passionate about continuous learning and exploring where I can make the most impact. I enjoy working flexibly on dynamic projects, embracing challenges that help me to grow both technically and personally whilst learning how to build solutions with confidence.
+
+🌱 Currently, I’m diving into Backstage.io, learning how to best leverage it for my team’s success.
+
+💡 I’m eager to contribute to my team’s development while honing my technical skills and expanding my expertise.
+
+✨ Beyond tech-interests, I love learning new languages, exploring different cultures, and identifying flowers/plants—because growth happens in many forms!
+
+Let’s connect and build something amazing together! 🚀
